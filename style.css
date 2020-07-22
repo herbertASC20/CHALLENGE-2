@@ -1,0 +1,32 @@
+body {
+    padding: 20px;
+    font-family: helvetica;
+    background-color: black;
+    color: white;
+}
+
+#h1_top {
+    text-align: center;
+    padding: 10px;
+    color: rgb(255, 203, 5); /* rgb value */
+}
+
+#h1_bottom {
+    background-color: rgb(48, 86, 153); /* hex value */
+    padding: 10px;
+}
+
+img {
+    width: 180px;
+}
+
+.the_divs {
+    border: 3px solid rgb(48, 86, 153); /* hex value */
+    padding: 20px;
+}
+
+.names {
+    font-weight: bold;
+    font-size: 30px;
+}
+
